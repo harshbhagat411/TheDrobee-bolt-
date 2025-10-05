@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ORD-2024-001",
+    "userId": "1",
+    "status": "delivered",
+    "items": [
+      {
+        "productId": "1",
+        "title": "Elegant Black Evening Lehenga",
+        "image": "https://i.pinimg.com/1200x/d2/42/31/d2423108d950fb48f779440b7fbd2026.jpg",
+        "size": "M",
+        "pricePerDay": 7120,
+        "rentalDays": 3,
+        "deposit": 16000
+      }
+    ],
+    "address": {
+      "name": "Priya Sharma",
+      "street": "123 MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400001",
+      "phone": "+91-98765-43210"
+    },
+    "subtotal": 21360,
+    "deposit": 16000,
+    "total": 37360,
+    "orderDate": "2024-01-15T10:30:00Z",
+    "rentalStart": "2024-01-20T00:00:00Z",
+    "rentalEnd": "2024-01-23T00:00:00Z",
+    "returnBy": "2024-01-24T23:59:59Z",
+    "deliveredAt": "2024-01-19T14:30:00Z",
+    "timeline": [
+      {
+        "status": "confirmed",
+        "message": "Order confirmed",
+        "timestamp": "2024-01-15T10:30:00Z"
+      },
+      {
+        "status": "processing",
+        "message": "Preparing your order",
+        "timestamp": "2024-01-16T09:00:00Z"
+      },
+      {
+        "status": "shipped",
+        "message": "Package shipped via Express Delivery",
+        "timestamp": "2024-01-17T15:30:00Z",
+        "trackingNumber": "TRK123456789"
+      },
+      {
+        "status": "delivered",
+        "message": "Package delivered successfully",
+        "timestamp": "2024-01-19T14:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "ORD-2024-002",
+    "userId": "1",
+    "status": "shipped",
+    "items": [
+      {
+        "productId": "2",
+        "title": "Designer Floral Kurta Set",
+        "image": "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "size": "S",
+        "pricePerDay": 3600,
+        "rentalDays": 5,
+        "deposit": 9600
+      }
+    ],
+    "address": {
+      "name": "Priya Sharma",
+      "street": "123 MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400001",
+      "phone": "+91-98765-43210"
+    },
+    "subtotal": 18000,
+    "deposit": 9600,
+    "total": 27600,
+    "orderDate": "2024-01-20T16:45:00Z",
+    "rentalStart": "2024-01-25T00:00:00Z",
+    "rentalEnd": "2024-01-30T00:00:00Z",
+    "returnBy": "2024-01-31T23:59:59Z",
+    "timeline": [
+      {
+        "status": "confirmed",
+        "message": "Order confirmed",
+        "timestamp": "2024-01-20T16:45:00Z"
+      },
+      {
+        "status": "processing",
+        "message": "Preparing your order",
+        "timestamp": "2024-01-21T10:00:00Z"
+      },
+      {
+        "status": "shipped",
+        "message": "Package shipped via Standard Delivery",
+        "timestamp": "2024-01-22T11:20:00Z",
+        "trackingNumber": "TRK987654321"
+      }
+    ]
+  }
+]
