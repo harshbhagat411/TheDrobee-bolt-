@@ -17,6 +17,7 @@ import { Blogs } from './pages/Blogs';
 import { BlogDetail } from './pages/BlogDetail';
 import { Wishlist } from './pages/Wishlist';
 import { Cart } from './pages/Cart';
+import AdminDashboard from './pages/AdminDashboard';
 
 function App() {
   return (
@@ -81,12 +82,7 @@ function App() {
                   path="/admin/dashboard"
                   element={
                     <ProtectedRoute allowedRoles={['admin']}>
-                      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-                        <div className="text-center">
-                          <h1 className="text-2xl font-bold text-gray-900 mb-4">Admin Dashboard</h1>
-                          <p className="text-gray-600">This page will show admin controls and analytics</p>
-                        </div>
-                      </div>
+                      <AdminDashboard />
                     </ProtectedRoute>
                   }
                 />
@@ -101,7 +97,7 @@ function App() {
                         <p className="text-gray-600 mb-8">Page not found</p>
                         <a
                           href="/"
-                          className="px-6 py-3 bg-indigo-600 text-white font-medium rounded-lg hover:bg-indigo-700"
+                          className="px-6 py-3 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700"
                         >
                           Go Home
                         </a>
