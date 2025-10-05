@@ -1,0 +1,143 @@
+{
+  "analytics": {
+    "totalUsers": 2847,
+    "totalRentals": 1523,
+    "totalRevenue": 245680,
+    "activeCreators": 89,
+    "monthlyGrowth": [
+      { "month": "Apr", "users": 1200, "revenue": 85000 },
+      { "month": "May", "users": 1650, "revenue": 125000 },
+      { "month": "Jun", "users": 2100, "revenue": 165000 },
+      { "month": "Jul", "users": 2450, "revenue": 195000 },
+      { "month": "Aug", "users": 2847, "revenue": 245680 }
+    ],
+    "userRatio": [
+      { "name": "Creators", "value": 289 },
+      { "name": "Customers", "value": 2558 }
+    ]
+  },
+  "verificationRequests": [
+    {
+      "id": "vr001",
+      "name": "Sophia Martinez",
+      "email": "sophia.m@gmail.com",
+      "portfolioLink": "https://instagram.com/sophiastyle",
+      "status": "pending",
+      "requestedDate": "2025-10-01"
+    },
+    {
+      "id": "vr002",
+      "name": "Ethan Williams",
+      "email": "ethan.w@outlook.com",
+      "portfolioLink": "",
+      "status": "pending",
+      "requestedDate": "2025-10-02"
+    },
+    {
+      "id": "vr003",
+      "name": "Isabella Chen",
+      "email": "isabella.chen@gmail.com",
+      "portfolioLink": "https://behance.net/isabellachen",
+      "status": "pending",
+      "requestedDate": "2025-10-03"
+    },
+    {
+      "id": "vr004",
+      "name": "Lucas Anderson",
+      "email": "lucas.a@yahoo.com",
+      "portfolioLink": "https://dribbble.com/lucasanderson",
+      "status": "pending",
+      "requestedDate": "2025-10-04"
+    },
+    {
+      "id": "vr005",
+      "name": "Mia Thompson",
+      "email": "mia.t@gmail.com",
+      "portfolioLink": "https://portfolio.mia-designs.com",
+      "status": "verified",
+      "requestedDate": "2025-09-28"
+    }
+  ],
+  "users": [
+    {
+      "id": "u001",
+      "name": "Emma Johnson",
+      "email": "emma.j@gmail.com",
+      "role": "customer",
+      "joinedDate": "2025-03-15",
+      "status": "active"
+    },
+    {
+      "id": "u002",
+      "name": "Olivia Davis",
+      "email": "olivia.d@yahoo.com",
+      "role": "creator",
+      "joinedDate": "2025-02-10",
+      "status": "active"
+    },
+    {
+      "id": "u003",
+      "name": "Liam Brown",
+      "email": "liam.b@outlook.com",
+      "role": "customer",
+      "joinedDate": "2025-04-22",
+      "status": "active"
+    },
+    {
+      "id": "u004",
+      "name": "Ava Wilson",
+      "email": "ava.w@gmail.com",
+      "role": "creator",
+      "joinedDate": "2025-01-08",
+      "status": "active"
+    },
+    {
+      "id": "u005",
+      "name": "Noah Martinez",
+      "email": "noah.m@gmail.com",
+      "role": "customer",
+      "joinedDate": "2025-05-30",
+      "status": "inactive"
+    },
+    {
+      "id": "u006",
+      "name": "Charlotte Garcia",
+      "email": "charlotte.g@yahoo.com",
+      "role": "creator",
+      "joinedDate": "2025-03-12",
+      "status": "active"
+    },
+    {
+      "id": "u007",
+      "name": "James Rodriguez",
+      "email": "james.r@gmail.com",
+      "role": "customer",
+      "joinedDate": "2025-06-18",
+      "status": "active"
+    },
+    {
+      "id": "u008",
+      "name": "Amelia Lee",
+      "email": "amelia.l@outlook.com",
+      "role": "creator",
+      "joinedDate": "2025-02-25",
+      "status": "active"
+    },
+    {
+      "id": "u009",
+      "name": "Benjamin Taylor",
+      "email": "ben.t@gmail.com",
+      "role": "customer",
+      "joinedDate": "2025-07-05",
+      "status": "active"
+    },
+    {
+      "id": "u010",
+      "name": "Harper White",
+      "email": "harper.w@yahoo.com",
+      "role": "creator",
+      "joinedDate": "2025-04-14",
+      "status": "inactive"
+    }
+  ]
+}
