@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1",
+    "title": "Royal Blue Silk Kurta",
+    "creatorId": "creator1",
+    "creatorName": "Ethnic Elegance",
+    "category": "kurta",
+    "gender": "men",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "pricePerDay": 1200,
+    "deposit": 3600,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "images": [
+      "https://i.pinimg.com/736x/b5/87/2d/b5872dc236600cdd62c5d8a678ebed3c.jpg"
+    ],
+    "availability": true,
+    "description": "Elegant royal blue silk kurta perfect for festivals and special occasions. Features traditional collar and comfortable fit.",
+    "features": ["100% Pure Silk", "Traditional Collar", "Machine Washable", "Comfortable Fit"],
+    "brand": "Ethnic Elegance",
+    "color": "Royal Blue"
+  },
+  {
+    "id": "2",
+    "title": "Embroidered Cotton Kurta",
+    "creatorId": "creator2",
+    "creatorName": "Heritage Crafts",
+    "category": "kurta",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "pricePerDay": 800,
+    "deposit": 2400,
+    "rating": 4.5,
+    "reviewCount": 156,
+    "images": [
+      "https://i.pinimg.com/736x/fc/e2/2b/fce22bc1b8baa710001185d9f7388dfd.jpg"
+    ],
+    "availability": true,
+    "description": "Beautiful hand-embroidered cotton kurta with intricate thread work. Perfect for casual and semi-formal occasions.",
+    "features": ["Hand Embroidered", "100% Cotton", "Breathable Fabric", "Easy Care"],
+    "brand": "Heritage Crafts",
+    "color": "White"
+  },
+  {
+    "id": "3",
+    "title": "Designer Banarasi Saree",
+    "creatorId": "creator3",
+    "creatorName": "Silk Traditions",
+    "category": "saree",
+    "gender": "women",
+    "sizes": ["S", "M", "L"],
+    "pricePerDay": 3500,
+    "deposit": 14000,
+    "rating": 4.9,
+    "reviewCount": 234,
+    "images": [
+      "https://i.pinimg.com/736x/3e/05/cd/3e05cde40aa9ed1682ef571031c5bc21.jpg"
+    ],
+    "availability": true,
+    "description": "Exquisite Banarasi silk saree with gold zari work. A timeless piece for weddings and grand celebrations.",
+    "features": ["Pure Banarasi Silk", "Gold Zari Work", "Matching Blouse", "Dry Clean Only"],
+    "brand": "Silk Traditions",
+    "color": "Maroon"
+  },
+  {
+    "id": "4",
+    "title": "Georgette Party Saree",
+    "creatorId": "creator4",
+    "creatorName": "Modern Drapes",
+    "category": "saree",
+    "gender": "women",
+    "sizes": ["S", "M", "L"],
+    "pricePerDay": 1800,
+    "deposit": 7200,
+    "rating": 4.6,
+    "reviewCount": 178,
+    "images": [
+      "https://i.pinimg.com/1200x/b6/65/4d/b6654d92406c0c5d95a0897a9f4771c7.jpg"
+    ],
+    "availability": true,
+    "description": "Flowing georgette saree with contemporary design. Perfect for parties and evening events.",
+    "features": ["Georgette Fabric", "Contemporary Design", "Easy Draping", "Matching Blouse"],
+    "brand": "Modern Drapes",
+    "color": "Navy Blue"
+  },
+  {
+    "id": "5",
+    "title": "Bridal Lehenga Set",
+    "creatorId": "creator1",
+    "creatorName": "Ethnic Elegance",
+    "category": "lehenga",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L"],
+    "pricePerDay": 5000,
+    "deposit": 25000,
+    "rating": 4.8,
+    "reviewCount": 145,
+    "images": [
+      "https://i.pinimg.com/1200x/97/fc/df/97fcdfe1c987e4754d5fc6ade654ee8e.jpg"
+    ],
+    "availability": true,
+    "description": "Stunning bridal lehenga with heavy embroidery and mirror work. Complete with choli and dupatta.",
+    "features": ["Heavy Embroidery", "Mirror Work", "Complete Set", "Dry Clean Only"],
+    "brand": "Ethnic Elegance",
+    "color": "Red"
+  },
+  {
+    "id": "6",
+    "title": "Party Wear Lehenga",
+    "creatorId": "creator5",
+    "creatorName": "Festive Fashion",
+    "category": "lehenga",
+    "gender": "women",
+    "sizes": ["S", "M", "L", "XL"],
+    "pricePerDay": 2800,
+    "deposit": 11200,
+    "rating": 4.7,
+    "reviewCount": 203,
+    "images": [
+      "https://i.pinimg.com/1200x/fd/43/52/fd43525ec5ff9704961a8c3ee41b7770.jpg"
+    ],
+    "availability": true,
+    "description": "Elegant party wear lehenga with sequin work. Perfect for sangeet and cocktail parties.",
+    "features": ["Sequin Work", "Net Fabric", "Comfortable Fit", "Complete Set"],
+    "brand": "Festive Fashion",
+    "color": "Pink"
+  },
+  {
+    "id": "7",
+    "title": "Wedding Sherwani",
+    "creatorId": "creator6",
+    "creatorName": "Royal Menswear",
+    "category": "sherwani",
+    "gender": "men",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "pricePerDay": 4200,
+    "deposit": 16800,
+    "rating": 4.8,
+    "reviewCount": 167,
+    "images": [
+      "https://i.pinimg.com/736x/ed/92/be/ed92be06304c0635dd4706551d3190c4.jpg"
+    ],
+    "availability": true,
+    "description": "Regal wedding sherwani with intricate embroidery. Comes with matching churidar and dupatta.",
+    "features": ["Silk Fabric", "Hand Embroidery", "Matching Churidar", "Dupatta Included"],
+    "brand": "Royal Menswear",
+    "color": "Cream"
+  },
+  {
+    "id": "8",
+    "title": "Bandhgala Sherwani",
+    "creatorId": "creator6",
+    "creatorName": "Royal Menswear",
+    "category": "sherwani",
+    "gender": "men",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "pricePerDay": 3200,
+    "deposit": 12800,
+    "rating": 4.6,
+    "reviewCount": 134,
+    "images": [
+      "https://i.pinimg.com/1200x/33/78/5c/33785cc988d0af89d3e9cacb93e2bc0d.jpg"
+    ],
+    "availability": true,
+    "description": "Classic bandhgala sherwani with modern cut. Perfect for receptions and formal events.",
+    "features": ["Bandhgala Style", "Modern Cut", "Premium Fabric", "Matching Accessories"],
+    "brand": "Royal Menswear",
+    "color": "Black"
+  },
+  {
+    "id": "9",
+    "title": "Anarkali Salwar Suit",
+    "creatorId": "creator2",
+    "creatorName": "Heritage Crafts",
+    "category": "salwar suit",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "pricePerDay": 1500,
+    "deposit": 6000,
+    "rating": 4.5,
+    "reviewCount": 189,
+    "images": [
+      "https://i.pinimg.com/1200x/cd/c7/52/cdc752101c04b381f3a721811e872355.jpg"
+    ],
+    "availability": true,
+    "description": "Graceful Anarkali salwar suit with flowy silhouette. Perfect for festivals and celebrations.",
+    "features": ["Anarkali Style", "Flowy Silhouette", "Dupatta Included", "Comfortable Fit"],
+    "brand": "Heritage Crafts",
+    "color": "Green"
+  },
+  {
+    "id": "10",
+    "title": "Punjabi Salwar Suit",
+    "creatorId": "creator7",
+    "creatorName": "Punjab Pride",
+    "category": "salwar suit",
+    "gender": "women",
+    "sizes": ["S", "M", "L", "XL"],
+    "pricePerDay": 1200,
+    "deposit": 4800,
+    "rating": 4.4,
+    "reviewCount": 156,
+    "images": [
+      "https://i.pinimg.com/736x/d1/51/90/d15190354c97c49857cd86a5ff6fcff7.jpg"
+    ],
+    "availability": true,
+    "description": "Traditional Punjabi salwar suit with vibrant colors and comfortable fit. Great for daily wear and casual events.",
+    "features": ["Traditional Style", "Vibrant Colors", "Cotton Fabric", "Easy Care"],
+    "brand": "Punjab Pride",
+    "color": "Yellow"
+  },
+  {
+    "id": "11",
+    "title": "Festive Kurta Set",
+    "creatorId": "creator8",
+    "creatorName": "Festival Wear",
+    "category": "kurta",
+    "gender": "men",
+    "sizes": ["S", "M", "L", "XL"],
+    "pricePerDay": 1800,
+    "deposit": 5400,
+    "rating": 4.6,
+    "reviewCount": 98,
+    "images": [
+      "https://i.pinimg.com/736x/83/59/82/83598226861eacd215d6d2888ec0fe89.jpg"
+    ],
+    "availability": true,
+    "description": "Festive kurta set with matching pajama. Perfect for Diwali, Eid, and other celebrations.",
+    "features": ["Matching Pajama", "Festive Design", "Cotton Blend", "Comfortable Fit"],
+    "brand": "Festival Wear",
+    "color": "Orange"
+  },
+  {
+    "id": "12",
+    "title": "Designer Palazzo Suit",
+    "creatorId": "creator4",
+    "creatorName": "Modern Drapes",
+    "category": "salwar suit",
+    "gender": "women",
+    "sizes": ["S", "M", "L", "XL"],
+    "pricePerDay": 2200,
+    "deposit": 8800,
+    "rating": 4.7,
+    "reviewCount": 167,
+    "images": [
+      "https://i.pinimg.com/1200x/b4/58/d5/b458d54fbe46ff087ba28267ff9fb3e9.jpg"
+    ],
+    "availability": true,
+    "description": "Contemporary palazzo suit with modern design. Perfect for office parties and casual events.",
+    "features": ["Palazzo Style", "Modern Design", "Breathable Fabric", "Dupatta Included"],
+    "brand": "Modern Drapes",
+    "color": "Blue"
+  },
+  {
+    "id": "13",
+    "title": "Silk Saree with Blouse",
+    "creatorId": "creator3",
+    "creatorName": "Silk Traditions",
+    "category": "saree",
+    "gender": "women",
+    "sizes": ["S", "M", "L"],
+    "pricePerDay": 2500,
+    "deposit": 10000,
+    "rating": 4.8,
+    "reviewCount": 145,
+    "images": [
+      "https://i.pinimg.com/736x/86/6a/61/866a615c22103a862f201795fa9d3cc7.jpg"
+    ],
+    "availability": true,
+    "description": "Pure silk saree with designer blouse. Elegant choice for weddings and formal occasions.",
+    "features": ["Pure Silk", "Designer Blouse", "Traditional Weave", "Dry Clean Only"],
+    "brand": "Silk Traditions",
+    "color": "Purple"
+  },
+  {
+    "id": "14",
+    "title": "Indo-Western Lehenga",
+    "creatorId": "creator5",
+    "creatorName": "Festive Fashion",
+    "category": "lehenga",
+    "gender": "women",
+    "sizes": ["XS", "S", "M", "L"],
+    "pricePerDay": 3800,
+    "deposit": 15200,
+    "rating": 4.9,
+    "reviewCount": 123,
+    "images": [
+      "https://i.pinimg.com/1200x/a7/ae/3c/a7ae3c98e8ef7eac4b99600cb347d595.jpg"
+    ],
+    "availability": true,
+    "description": "Fusion Indo-Western lehenga with contemporary styling. Perfect for cocktail parties and modern celebrations.",
+    "features": ["Indo-Western Style", "Contemporary Design", "Premium Fabric", "Complete Set"],
+    "brand": "Festive Fashion",
+    "color": "Teal"
+  },
+  {
+    "id": "15",
+    "title": "Nehru Jacket Kurta Set",
+    "creatorId": "creator1",
+    "creatorName": "Ethnic Elegance",
+    "category": "kurta",
+    "gender": "men",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "pricePerDay": 2800,
+    "deposit": 8400,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "images": [
+      "https://i.pinimg.com/736x/54/46/58/544658b8ab93d5419d6449f76117962f.jpg"
+    ],
+    "availability": true,
+    "description": "Elegant kurta with matching Nehru jacket. Perfect for formal events and business occasions.",
+    "features": ["Nehru Jacket Included", "Formal Style", "Premium Cotton", "Professional Look"],
+    "brand": "Ethnic Elegance",
+    "color": "Grey"
+  }
+]
